@@ -1,6 +1,6 @@
 // Написать программу проверяющую, является ли число четным, нечетным или не числом
 
-const number = NaN;
+const number = 336;
 
 // if (typeof number == "number") {
 if (!isNaN(number) && isFinite(number)) {
